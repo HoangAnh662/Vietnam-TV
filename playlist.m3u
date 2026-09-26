@@ -1,36 +1,39 @@
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+#EXTM3U
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV1%20Logo%2007-09-2026.png",VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV2%20logo%2007-09-2026.png",VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV3%20logo%2007-09-2026.png",VTV3
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV4%20logo%202026.png",VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV5%20logo%202025.png",VTV5
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV5%20T%C3%A2y%20Nguy%C3%AAn%20logo%202026.webp",VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV5%20T%C3%A2y%20Nam%20B%E1%BB%99.webp",VTV5 Tây Nam Bộ
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV6%20logo%202026.png",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV7%20logo%202026.png",VTV7
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV8%20logo%202026.png",VTV8
 https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV9%20logo%202026.png",VTV9
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
+#EXTINF:-1 group-title="VTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/VTV10%20logo%202026.png",VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1,ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
