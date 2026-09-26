@@ -104,3 +104,76 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Địa phương",THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#================ ĐÀI ĐỊA PHƯƠNG ================
+
+#EXTINF:-1 group-title="Địa phương",Hà Nội 1
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Hà Nội 2
+https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Quảng Ninh 1
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Quảng Ninh 3
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Thanh Hóa
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Nghệ An
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Đà Nẵng 1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Đà Nẵng 2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Đồng Nai 1
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Đồng Nai 2
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Tây Ninh
+https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Thái Nguyên
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Quảng Nam
+https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Quảng Ngãi
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Gia Lai
+https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Ninh Thuận
+https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Đồng Tháp
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Tiền Giang
+https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương",Sóc Trăng
+https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunk
