@@ -33,6 +33,53 @@ https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_56000
 
 #EXTINF:-1, VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1,ON Vie Giải Trí
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1,ON Phim Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+
+#EXTINF:-1,ON Movies
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+
+#EXTINF:-1,ON E-Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+
+#EXTINF:-1,ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+
+#EXTINF:-1,ON BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+
+#EXTINF:-1,ON Info TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+
+#EXTINF:-1,ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+#EXTINF:-1,ON Style TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+
+#EXTINF:-1,ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+
+#EXTINF:-1,ON Trending TV
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+
+#EXTINF:-1,ON Vie DRAMAS
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
+#EXTINF:-1,ON V Family
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+
+#EXTINF:-1,ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1,ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+#EXTINF:-1,ON Golf
+https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 #================ HTV ================
 
 #EXTINF:-1 group-title="HTV",HTV1
