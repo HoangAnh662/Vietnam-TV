@@ -72,6 +72,19 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 group-title="ON" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 
+#EXTINF:-1 group-title="ON",ON V Family
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+
+#EXTINF:-1 group-title="ON",ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1 group-title="ON",ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+#EXTINF:-1 group-title="ON",ON Golf
+https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
+
+#============== HTV ==============
 #
 #================ HTV ================
 
