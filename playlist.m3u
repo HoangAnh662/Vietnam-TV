@@ -19,7 +19,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv5-tay-nam-bo.png" group-title="VTV",VTV5 Tây Nam Bộ
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HoangAnh662/Vietnam-TV/main/vtv6.png?v=3" group-title="VTV",VTV6
+#EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv6.png" group-title="VTV",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv7.png" group-title="VTV",VTV7
