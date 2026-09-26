@@ -163,19 +163,5 @@ https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương",Quảng Ngãi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Địa phương",Gia Lai
-https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Địa phương",Ninh Thuận
-https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Địa phương",Đồng Tháp
-#EXTINF:-1 group-title="Địa phương",Đồng Tháp
-http://118.69.169.41:1935/THDT/thdttv/chunklist_w1866045054.m3u8
-
-#EXTINF:-1 group-title="Địa phương",Tiền Giang
-http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 group-title="Địa phương",Sóc Trăng
-http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 group-title="Địa phương",Tuyên Quang
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
