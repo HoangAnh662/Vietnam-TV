@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VTV",VTV1 HD
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
+#EXTINF:-1 group-title="VTV",VTV1 TEST
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
