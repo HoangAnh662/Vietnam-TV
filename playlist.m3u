@@ -176,6 +176,6 @@ http://118.69.169.41:1935/THDT/thdttv/chunklist_w1866045054.m3u8
 http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 group-title="Địa phương",Sóc Trăng
-https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunk
+http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 group-title="Địa phương",Tuyên Quang
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
