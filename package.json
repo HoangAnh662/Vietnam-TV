@@ -1,0 +1,12 @@
+{
+  "name": "vietnam-tv",
+  "version": "1.0.0",
+  "description": "Vietnam TV Streaming Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
