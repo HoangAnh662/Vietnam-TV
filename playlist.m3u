@@ -85,33 +85,33 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 
 #============== HTV ==============
-#
-#================ HTV ================
 
-#EXTINF:-1 group-title="HTV",HTV1
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV3
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV4
+#EXTINF:-1 group-title="HTV" tvg-logo="https://img.hplus.com.vn/355x200/poster/2026/03/02/664017-Logo_htv4_web_fix.png",HTV4
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV5
+#EXTINF:-1 group-title="HTV" tvg-logo="https://img.hplus.com.vn/355x200/poster/2026/05/25/785088-Logo_htv5_web.png",HTV5
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV7
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV9
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV Thể Thao
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
 https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/index.m3u8
 
+
+#============== HTVC ==============
 
 #================ HTVC ================
 
