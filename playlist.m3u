@@ -150,76 +150,76 @@ https://live.fptplay53.net/epzhd1/htvc
 
 #============== SCTV ==============
 
-#EXTINF:-1 group-title="SCTV",SCTV1
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 https://vmttv.dpdns.org/VTVGo/?sctv1
 
-#EXTINF:-1 group-title="SCTV",SCTV2 - TODAY TV
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2 - TODAY TV
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 
-#EXTINF:-1 group-title="SCTV",SCTV3
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3
 https://vmttv.dpdns.org/VTVGo/?sctv3
 
-#EXTINF:-1 group-title="SCTV",SCTV4
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4
 https://vmttv.dpdns.org/VTVGo/?sctv4
 
-#EXTINF:-1 group-title="SCTV",SCTV5
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/OTwJmmm.png",SCTV5
 https://vmttv.dpdns.org/VTVGo/?sctv5
 
-#EXTINF:-1 group-title="SCTV",SCTV6
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="SCTV",SCTV7
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7
 https://vmttv.dpdns.org/VTVGo/?sctv7
 
-#EXTINF:-1 group-title="SCTV",SCTV8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
 https://vmttv.dpdns.org/VTVGo/?sctv8
 
-#EXTINF:-1 group-title="SCTV",SCTV9
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
 https://vmttv.dpdns.org/VTVGo/?sctv9
 
-#EXTINF:-1 group-title="SCTV",SCTV10
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
 https://vmttv.dpdns.org/VTVGo/?sctv10
 
-#EXTINF:-1 group-title="SCTV",SCTV11
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
 https://vmttv.dpdns.org/VTVGo/?sctv11
 
-#EXTINF:-1 group-title="SCTV",SCTV12
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12
 https://vmttv.dpdns.org/VTVGo/?sctv12
 
-#EXTINF:-1 group-title="SCTV",SCTV13
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13
 https://vmttv.dpdns.org/VTVGo/?sctv13
 
-#EXTINF:-1 group-title="SCTV",SCTV14
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
 https://vmttv.dpdns.org/VTVGo/?sctv14
 
-#EXTINF:-1 group-title="SCTV",SCTV15
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
 https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
 
-#EXTINF:-1 group-title="SCTV",SCTV16
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
 https://vmttv.dpdns.org/VTVGo/?sctv16
 
-#EXTINF:-1 group-title="SCTV",SCTV17
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
 https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
 
-#EXTINF:-1 group-title="SCTV",SCTV18
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
 https://vmttv.dpdns.org/VTVGo/?sctv18
 
-#EXTINF:-1 group-title="SCTV",SCTV19
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/GKqfMnC.png",SCTV19
 https://vmttv.dpdns.org/VTVGo/?sctv19
 
-#EXTINF:-1 group-title="SCTV",SCTV20
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
 https://vmttv.dpdns.org/VTVGo/?sctv20
 
-#EXTINF:-1 group-title="SCTV",SCTV21 - Việt Nam Ký Ức
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21 - Việt Nam Ký Ức
 https://vmttv.dpdns.org/VTVGo/?sctv21
 
-#EXTINF:-1 group-title="SCTV",SCTV22
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
 https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
-#EXTINF:-1 group-title="SCTV",SCTV Phim Tổng Hợp
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim Tổng Hợp
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 
-#EXTINF:-1 group-title="SCTV",SCTV4K
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv4k.jpg",SCTV4K
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 
 
