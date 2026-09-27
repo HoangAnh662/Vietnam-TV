@@ -24,17 +24,38 @@ app.get("/auto-logo/:name.png", async (req, res) => {
   try {
     const name = (req.params.name || "TV").trim();
     const upper = name.toUpperCase();
-
+const group = (req.query.group || "").trim();
+const upperGroup = group.toUpperCase();
     let bg = "#607D8B";
 
-    if (upper.startsWith("VTV")) bg = "#E53935";
-    else if (upper.startsWith("VTC")) bg = "#1565C0";
-    else if (upper.startsWith("HTVC")) bg = "#00897B";
-    else if (upper.startsWith("HTV")) bg = "#F9A825";
-    else if (upper.startsWith("SCTV")) bg = "#7E57C2";
-    else if (upper.startsWith("ON")) bg = "#D81B60";
-    else if (upper.startsWith("K+")) bg = "#43A047";
-    else if (upper.startsWith("TV360")) bg = "#1976D2";
+// Ưu tiên màu theo group-title
+if (upperGroup.includes("ĐỊA PHƯƠNG")) {
+  bg = "#00897B";
+} else if (upperGroup.includes("VTV")) {
+  bg = "#E53935";
+} else if (upperGroup.includes("VTC")) {
+  bg = "#1565C0";
+} else if (upperGroup.includes("HTV")) {
+  bg = "#F9A825";
+} else if (upperGroup.includes("SCTV")) {
+  bg = "#7E57C2";
+} else if (upperGroup.includes("ON")) {
+  bg = "#D81B60";
+} else if (upperGroup.includes("K+")) {
+  bg = "#43A047";
+} else if (upperGroup.includes("TV360")) {
+  bg = "#1976D2";
+}
+
+// Nếu playlist không có group-title thì nhận diện theo tên kênh
+else if (upper.startsWith("VTV")) bg = "#E53935";
+else if (upper.startsWith("VTC")) bg = "#1565C0";
+else if (upper.startsWith("HTVC")) bg = "#00897B";
+else if (upper.startsWith("HTV")) bg = "#F9A825";
+else if (upper.startsWith("SCTV")) bg = "#7E57C2";
+else if (upper.startsWith("ON")) bg = "#D81B60";
+else if (upper.startsWith("K+")) bg = "#43A047";
+else if (upper.startsWith("TV360")) bg = "#1976D2";
 
     // Chia tên thành tối đa 3 dòng
     const words = name.split(/\s+/);
@@ -184,12 +205,15 @@ app.get("/playlist.m3u", (req, res) => {
         if (!channelName) {
           return line;
         }
+const groupMatch = line.match(/group-title\s*=\s*"([^"]*)"/i);
+const group = groupMatch ? groupMatch[1].trim() : "";
 
-        // Logo PNG
-        const logo =
-          `${host}/auto-logo/` +
-          `${encodeURIComponent(channelName)}.png?v=4`;
-
+// Logo PNG + truyền group
+const logo =
+  `${host}/auto-logo/` +
+  `${encodeURIComponent(channelName)}.png` +
+  `?group=${encodeURIComponent(group)}&v=5`;
+        
         // Logo thật đã có -> giữ nguyên
         if (/tvg-logo\s*=\s*"[^"]+"/i.test(line)) {
           return line;
