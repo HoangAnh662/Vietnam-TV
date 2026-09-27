@@ -37,6 +37,14 @@ https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_560
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vietnam-today.png" group-title="VTV",Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
+#================ KÊNH THIẾT YẾU ================
+
+#EXTINF:-1 group-title="Thiết yếu",ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Thiết yếu",QPVN
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
 
 #============== ON ===============
 
@@ -214,13 +222,6 @@ https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #EXTINF:-1 group-title="SCTV",SCTV4K
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
-#================ KÊNH THIẾT YẾU ================
-
-#EXTINF:-1 group-title="Thiết yếu",ANTV
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Thiết yếu",QPVN
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 
 
 #================ VĨNH LONG ================
