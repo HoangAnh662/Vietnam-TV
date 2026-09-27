@@ -155,7 +155,7 @@ app.get("/playlist.m3u", (req, res) => {
       }
 
       const logo =
-        `${host}/auto-logo/${encodeURIComponent(channelName)}`;
+  `${host}/auto-logo/${encodeURIComponent(channelName)}?v=2`;
 
       return (
         line.substring(0, comma) +
