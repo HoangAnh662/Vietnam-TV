@@ -84,16 +84,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 group-title="ON" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 
-#EXTINF:-1 group-title="ON",ON V Family
+#EXTINF:-1 group-title="ON" tvg-logo="https://i.ibb.co/r5ywFHj/vfamily-BEARTV.png",ON V Family
 https://freem3u.xyz/api/live/play.m3u8?vid=187
 
-#EXTINF:-1 group-title="ON",ON Kids
+#EXTINF:-1 group-title="ON" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 
-#EXTINF:-1 group-title="ON",ON Life
+#EXTINF:-1 group-title="ON" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
-#EXTINF:-1 group-title="ON",ON Golf
+#EXTINF:-1 group-title="ON" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 
 #============== HTV ==============
