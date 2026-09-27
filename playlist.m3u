@@ -38,54 +38,6 @@ https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_560
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
 
-#==================== TV360 ====================
-
-#EXTINF:-1 group-title="TV360",TV360+1
-https://tv.vietanhtv.top/tv360/tv360.php?id=1&expires=1790515506&token=89e5dba4f5db85b9e44810d0560dab10
-
-#EXTINF:-1 group-title="TV360",TV360+2
-https://tv.vietanhtv.top/tv360/tv360.php?id=10001&expires=1790515506&token=bfc7b74623ea7dd899906b1768a4152a
-
-#EXTINF:-1 group-title="TV360",TV360+3
-https://tv.vietanhtv.top/tv360/tv360.php?id=10022&expires=1790515506&token=ef7da7b29cbffb32ff18b7a65b1c5d40
-
-#EXTINF:-1 group-title="TV360",TV360+4
-https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1790515506&token=ce6d83194e3f67d750e0da8292bb1f84
-
-#EXTINF:-1 group-title="TV360",TV360+5
-https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1790515506&token=cf1cc1cd1a4b82686b288d77fc22aef3
-
-#EXTINF:-1 group-title="TV360",TV360+6
-https://tv.vietanhtv.top/tv360/tv360.php?id=148&expires=1790515506&token=5cb2f36b0dd010d8dfb9ace51c2cf757
-
-#EXTINF:-1 group-title="TV360",TV360+7
-https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1790515506&token=b9ebce4d5e3b7b443bc17778a08198f2
-
-#EXTINF:-1 group-title="TV360",TV360+8
-https://tv.vietanhtv.top/tv360/tv360.php?id=2554&expires=1790515506&token=e2cb3f30bb00a709cca7ee9849758f3c
-
-#EXTINF:-1 group-title="TV360",TV360+9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1790515506&token=56c5d210cbc082cf3ef7a3c61c27521a
-
-#EXTINF:-1 group-title="TV360",TV360+10
-https://tv.vietanhtv.top/tv360/tv360.php?id=9868&expires=1790515506&token=7789de672688a9ea96d21d1ce7b8e089
-
-#EXTINF:-1 group-title="TV360",TV360+11
-https://tv.vietanhtv.top/tv360/tv360.php?id=9869&expires=1790515506&token=bbd18ea7014911c05b240d317848d342
-
-#EXTINF:-1 group-title="TV360",TV360+12
-https://tv.vietanhtv.top/tv360/tv360.php?id=9870&expires=1790515506&token=f368bea01b3f64429d05df1e669bf04b
-
-#EXTINF:-1 group-title="TV360",TV360+13
-https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1790515506&token=e2660a982595a98b63fcb87d85663ab3
-
-#EXTINF:-1 group-title="TV360",TV360+14
-https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1790515506&token=eb2a04b79a613149fb240299df0a5d3d
-
-#EXTINF:-1 group-title="TV360",TV360+15
-https://tv.vietanhtv.top/tv360/tv360.php?id=9958&expires=1790515506&token=a51c43ee21b1da2b0fa5f305463a31d1
-
-
 #============== ON ===============
 
 #EXTINF:-1 group-title="ON" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
