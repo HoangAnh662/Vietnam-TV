@@ -225,28 +225,28 @@ https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 
 #============== VĨNH LONG - AN GIANG ==============
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgAHl7H.png" group-title="Địa phương",THVL1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_THVL1_HD.jpg",THVL1
 https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UKR7jTG.png" group-title="Địa phương",THVL2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_THVL2_HD.jpg",THVL2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sWPCaLm.png" group-title="Địa phương",THVL3
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg",THVL3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2iRbQK.png" group-title="Địa phương",THVL4
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_THVL4_HD.jpg",THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqY8g4A.png" group-title="Địa phương",THVL5
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",THVL5
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dqYwq8P.png" group-title="Địa phương",ATV1 - TH An Giang 1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png",ATV1 - TH An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dqYwq8P.png" group-title="Địa phương",ATV2 - TH An Giang 2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/07/atv2.png",ATV2 - TH An Giang 2
 https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dqYwq8P.png" group-title="Địa phương",ATV3 - TH An Giang 3
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",ATV3 - TH An Giang 3
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #================ ĐÀI ĐỊA PHƯƠNG ================
 
