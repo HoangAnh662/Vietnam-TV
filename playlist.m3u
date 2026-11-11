@@ -2,16 +2,16 @@
 https://dethich.pw/vtv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv2.png" group-title="VTV",VTV2
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv3.png" group-title="VTV",VTV3
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv4.png" group-title="VTV",VTV4
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv5.png" group-title="VTV",VTV5
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv5-tay-nguyen.png" group-title="VTV",VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
@@ -20,19 +20,19 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv6.png" group-title="VTV",VTV6
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv7.png" group-title="VTV",VTV7
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv8.png" group-title="VTV",VTV8
-https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv9.png" group-title="VTV",VTV9
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv10.png" group-title="VTV",VTV10
-https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vtv10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vietnam-today.png" group-title="VTV",Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
