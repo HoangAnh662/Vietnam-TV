@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv1.png" group-title="VTV",VTV1
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietnam-tv.onrender.com/logos/vtv2.png" group-title="VTV",VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
